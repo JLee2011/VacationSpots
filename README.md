@@ -1,6 +1,6 @@
 # VacationSpots
 | Name | Links |
 |------|------|
-| Cairo | [Link](/jasonTour.md) |
+| Cairo | [Link](/JasonTour.md) |
 | Pyramid | [Link](/thanhtour.md) |
 |----|----|
